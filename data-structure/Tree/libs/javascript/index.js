@@ -15,3 +15,7 @@ console.log(root);
 root.preorder();
 console.log('==================');
 root.postorder();
+
+const A = [1, 2];
+const B = [2, 2];
+console.log(A - B);
